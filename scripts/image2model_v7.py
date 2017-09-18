@@ -184,4 +184,4 @@ def image2model(filename,gradient=10,width=100,height=10):
             f.write(line+'\n')
     print('The image %s has been tranlated to a 3D model' % name)
 
-image2model('moon_test.jpg')        
+image2model('DSCF4316(2).jpg')        
