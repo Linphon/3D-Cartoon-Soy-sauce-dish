@@ -1,0 +1,11 @@
+# 虚拟环境
+venv/
+
+# vscode相关文件
+.vscode/
+
+# 图片文件
+Thumbs.db
+
+# python 运行文件
+*.pyc
