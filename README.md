@@ -13,6 +13,9 @@ Using a FDM printer, the soy sauce dish of blue PLA material was printed. (Using
 ![image](https://github.com/Linphon/3D-Cartoon-Soy-sauce-dish/blob/master/source_result_img/soy_sauce_in_it.png?raw=true)
 
 It will take much time to build the 3D model manually, so I write a script based on Python 3.6 to build the model automatically. Though the effect is not very well right now, the printer can print the soy sauce dish model built by the script. In the future, the script will be improved.
+The preview of the model made by script is showed below.
+
+![image](https://github.com/Linphon/3D-Cartoon-Soy-sauce-dish/blob/master/model_made_by_script.png?raw=true)
 
 When using this script, you just need to change the file path and several other paraments.
 I think you will enjoy it, if you are a anime fan.
